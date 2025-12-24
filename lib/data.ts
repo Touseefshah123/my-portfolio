@@ -38,7 +38,7 @@ export const experiencesData = [
     title: "Graduated computer Science",
     location: "islamabad",
     description:
-      "I graduated after 6 months of studying. I immediately found a job as a computer Science teacher then switched as a mern stack developer developer.",
+      " when I graduated  i immediately found a job as a computer Science teacher then switched as a mern stack developer after two year in teaching.",
     icon: React.createElement(LuGraduationCap),
     date: "2022",
   },
